@@ -8,4 +8,5 @@ In this project, I built a Spotify recommendation engine, it ask you for a song 
 The data set contains information about the singers, songs and audio features (e.g. Danceability, Loudness...).
 
 3.	Finally I build, through the usage of an unsupervised machine learning model, a recommendation engine which will receive an input (a title of any songs currently on Spotify) and will advise either a top 100 song (if the input song was in the top 100 of Billboard), or a similar song in terms of audio feature based on a play list that you like.
+
 ![](images/spotify.jpg)
